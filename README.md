@@ -1,2 +1,2 @@
-# AIG
-Deep Q network
+# pommerman
+
